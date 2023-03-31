@@ -1,5 +1,5 @@
 # California-Election-data
-This project is a GIS analysis of based on an election carried out in California
+This project is a GIS analysis based on an election carried out in California
 
 ## Scenerio
 For this project, I participated in a scenario, working in the field of electoral politics and specifically interested in ballot measures, where citizens vote directly to enact new laws. As a GIS analyst for a nongovernmental organization that opposed California’s 2012 ballot measure that would have required labeling of genetically modified organisms (GMOs) in food. My task is to look at the broad voting patterns in California on this issue, knowing that the initiative did not gain enough votes to pass.
