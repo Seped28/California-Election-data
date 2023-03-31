@@ -13,6 +13,7 @@ When done, I will create a map of the county-level data with all appropriate ele
 
 ## Resource used
 QGIS
+Election dataset
 
 ## Conclusion
 Out of the 58 conties in California, less than 20 voted (yes) to enact the law (with only 6 having majority vote). The color ramp on the map helps to show the areas where the voters supported the law with respect to areas where it was not supported.
